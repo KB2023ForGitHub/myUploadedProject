@@ -1,8 +1,8 @@
 # Project 1
 1. Application 1: General Base Counting
-  _Queue Implementation
+   _Queue Implementation
 1. Application 2: Postfix Calculator
-  _Stack Implementation
+   _Stack Implementation
 
   This is a project that I completed. It was recently assigned in September. The project includes counting any number in any base from 2 to 8, and printing each number in that base in Application 1. Application 1 required creating and uding a Queue class. Application 2 was about calculating a mathmetical expression by not utilizing the PEMDAS notation but getting the same result if it was used. Application 2 required using and creating a Stack class. For both applications test files were given to test out the different applications.
 
